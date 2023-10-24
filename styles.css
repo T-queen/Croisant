@@ -24,3 +24,8 @@ body {
   margin-right: 4%;
   color: green;
 }
+
+.photo {
+  max-width: 600px;
+  border-radius: 10px;
+}
